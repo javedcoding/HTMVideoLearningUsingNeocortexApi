@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HTMVideoLearning": {
+      "commandName": "Project",
+      "commandLineArgs": "videoConfig.json htmConfig.json"
+    }
+  }
+}

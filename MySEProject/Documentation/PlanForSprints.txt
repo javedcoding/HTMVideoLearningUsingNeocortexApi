@@ -1,0 +1,60 @@
+Here all the Eight sprints' plans will be discussed and created so that we can keep tracks of how the project is going on 
+
+Reading Convention-
+(Sprint with Date)
+Task (Done percentage with date) [Outcome]
+
+Sprints-
+
+Sprint 1(Jan 11- Jan 17) 
+Run the old code from the repository. (Done 11th Jan) [Problem is output folder is not being created]
+Create a branch named as MigrationOfVideoLearningProject_CodeBreakers (issue created as permission not given) [Solved with the help of Professor dobric and Thoan]
+Read the old code and libraries (Done 35%) 
+Detect where changes can be done () [Helper function library can be removed and writeLine method can be added in the video learning project]
+Check after working on a change and try to do unit testing ()
+
+Sprint 2(Jan 18- Jan 24)
+Run the old code from the repository. (Done 19th Jan) [Problem found that CreateVideoFromFrames function did not work]
+Solved by creating Fourcc codec default value
+Read the old code and libraries (Done 55%)
+Doc block added for function(NFrameListToVideo) definition
+
+Sprint 3(Jan 25- Feb 1)
+Read the old code and libraries (Done 65%)
+Problem in understanding the whole code as a bunch
+Initiation of removing HelperFunction
+
+Sprint 4(Feb 2- Feb 7)
+Problem in understanding the video configuration required for program running. (Done 6th Feb)
+Solved creating another class to read cofiguration from
+Doc block added for method defination
+
+Sprint 5(Feb 8- Feb 14)
+Changes happened in the main branch code and fixing of videoleaning-migration branch required. (Done 14th Feb)
+Changes done in do while loop to quit iteration in run1 function of VideoLearning.cs class 
+Fixing run to quit problem
+Added Doc block for video conversion method
+
+Sprint 6(Feb 15- Feb 21)
+Exam week could not work much
+
+Sprint 7(Feb 22- Feb 28)
+Main branch code had a json file and Thoan integrated the VideoConfig.cs with videoConfig.json
+Read the old code and libraries (Done 100%)
+Added VideoSetConfig function in VideoSet.cs to easily call for the configuration in the program
+few modification in readme files
+Initiation of documentation of the project.
+
+Sprint 8(Mar 1- Mar 7)
+Correct run1 do while loop of VideoLearning.cs to iterate perfectly changed it into while do loop
+fixing the console writing problem
+Created MakeDirectoryIfRequired function to follow dry method
+
+Sprint 8(Mar 8- Mar 14)
+Change run1 to TrainWithFramekey and run2 to TrainWithFramekeys
+Fix accuracy calculation of TrainWithFramekey
+Make documentation
+
+Sprint 9(Mar 15- Mar 21)
+Fix problems of documentation
+make the mp4 video file of your work

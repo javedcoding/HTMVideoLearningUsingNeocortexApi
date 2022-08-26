@@ -1,0 +1,19 @@
+{
+
+  "frameWidth": 18,
+  "frameHeight": 18,
+  "frameRate": 12,
+  "ColorMode": "BLACKWHITE",
+  "TrainingDatasetRoot": "SmallTrainingSet",
+  "TestFiles": [
+    "TestImageSet\\Converted\\Circle\\circle\\Circle_circle_3.png",
+    "TestImageSet\\Converted\\Circle\\circle\\Circle_circle_2.png",
+    "TestImageSet\\Converted\\Line\\line\\Line_line_11.png",
+    "TestImageSet\\Converted\\Line\\line\\Line_line_22.png",
+    "TestImageSet\\Converted\\Rectangle\\rectangle\\Rectangle_rectangle_28.png",
+    "TestImageSet\\Converted\\Rectangle\\rectangle\\Rectangle_rectangle_18.png",
+    "TestImageSet\\Converted\\Triangle\\triangle\\Triangle_triangle_23.png",
+    "TestImageSet\\Converted\\Triangle\\triangle\\Triangle_triangle_0.png"
+  ]
+
+}
